@@ -1,4 +1,4 @@
-!["final rendering for try it together"](assets/images/screen-together.png)
+!["final rendering for try it together"](assets/images/screen-yourself-2.png)
 # Semantic HTML Elements Lab 3 - Try it Yourself
 
 ## Description 📄
