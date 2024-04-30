@@ -23,7 +23,7 @@ In the final Try It Yourself activity, let's build a user-friendly contact secti
 3. [ ] Below that, create a third `<section>`, put a subheader element with the copy: `Contact`.
 4. [ ] Under that, put a paragraph element with the copy: `If you'd like to reach out, feel free to visit our office:`
 5. [ ] Now put an `<address>` tag (yes there is one) under that with three paragraph tags:
-   1. [ ] The first paragraph tag should be bold using the correct semantic element with the copy: `My Awesome Web Development Co.`.
+   1. [ ] The first paragraph tag should be **bold** using the correct semantic element with the copy: `My Awesome Web Development Co.`.
    2. [ ] The second paragraph is normal with the copy: `4464 Hickory Ridge Drive`.
    3. [ ] The third paragraph is normal with the copy: `Las Vegas, NV 55555`.
 6. [ ] And finally, below the section you just made, create a `<footer>` element with the copy: `&copy; Chris Doe 2024`.
