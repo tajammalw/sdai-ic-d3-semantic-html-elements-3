@@ -8,7 +8,7 @@ In the final Try It Yourself activity, let's build a user-friendly contact secti
 
 ## Developer Objectives 📋
 
-1. **New Section:** New <section> for the contacts section
+1. **New Section:** New `<section>` for the contacts section
 2. **Section description:** Create a paragraph explaining how to reach out (under subheading).
 3. **Address Semantic Element:** Use the <address> element to contain the written address.
 4. **Footer Semantic Element:** Footer element with copyright info ("© Chris Doe 2024").
@@ -19,7 +19,7 @@ In the final Try It Yourself activity, let's build a user-friendly contact secti
 **Attention**: When you complete a task, put an `x` in the middle of the brackets to mark it off your ToDo list.
 
 1. [ ] Navigate to the `index.html` file. 
-2. [ ] Then navigate to the `Recent Projects` section element. 
+2. [ ] Then navigate to the closing `</main>` tag. 
 3. [ ] Below that, create a third `<section>`, put a subheader element with the copy: `Contact`.
 4. [ ] Under that, put a paragraph element with the copy: `If you'd like to reach out, feel free to visit our office:`
 5. [ ] Now put an `<address>` tag (yes there is one) under that with three paragraph tags:
