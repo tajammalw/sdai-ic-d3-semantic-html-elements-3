@@ -8,9 +8,9 @@ In the final Try It Yourself activity, let's build a user-friendly contact secti
 
 ## Developer Objectives 📋
 
-1. **New Section:** New `<section>` for the contacts section
+1. **New Section:** Build a new `<section>` for the contacts section.
 2. **Section description:** Create a paragraph explaining how to reach out (under subheading).
-3. **Address Semantic Element:** Use the <address> element to contain the written address.
+3. **Address Semantic Element:** Add the <address> element to contain the written address.
 4. **Footer Semantic Element:** Footer element with copyright info ("© Chris Doe 2024").
 
 ---
